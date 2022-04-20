@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaopedrocabral-sp
 - 👀 I’m interested in html, css, javascript, node, react
-- 🌱 I’m currently learning html, css, javascript
+- 🌱 I’m currently learning react
 - 📫 How to reach me ...
 
 <!---
