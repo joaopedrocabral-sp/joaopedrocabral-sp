@@ -2,7 +2,7 @@
 
 - 🔥 Desenvolvedor Web Front-end React Jr
 
-- 💻 Tenho projetos pessoais postados nesse meu site portfólio(https://joaopedrocabral-sp.github.io/)
+- 💻 [Tenho projetos pessoais postados nesse meu site portfólio](https://joaopedrocabral-sp.github.io/)
 
 <br>
 
