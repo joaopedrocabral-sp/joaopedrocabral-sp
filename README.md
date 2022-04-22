@@ -2,7 +2,7 @@
 
 - 🔥 Desenvolvedor Web Front-end React Jr
 
-- 💻 Tenho projetos pessoais postados nesse meu site portfólio (https://joaopedrocabral-sp.github.io/)
+- 💻 Tenho projetos pessoais postados nesse meu site portfólio(https://joaopedrocabral-sp.github.io/)
 
 <br>
 
@@ -13,6 +13,7 @@
   <img allign="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img allign="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img allign="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img allign="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
  </div>
 
 <br>
